@@ -1,4 +1,4 @@
-# Book API
+# Library API
 
 A Collection of Books used as Sample Data
 
